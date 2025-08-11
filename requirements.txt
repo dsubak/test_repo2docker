@@ -52,6 +52,8 @@ jsonschema-specifications==2025.4.1
 jupyter-events==0.12.0
 jupyter-lsp==2.2.6
 jupyter-repo2docker==2025.8.0
+# Editable Git install with no remote (jupyter2repo==0.1.0)
+-e /Users/daniel/repos/jupyter2repo
 jupyter_client==8.6.3
 jupyter_core==5.8.1
 jupyter_server==2.16.0
