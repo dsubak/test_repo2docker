@@ -52,7 +52,7 @@ jsonschema-specifications==2025.4.1
 jupyter-events==0.12.0
 jupyter-lsp==2.2.6
 jupyter-repo2docker==2025.8.0
--e git+ssh://git@github.com/mitodl/ol-notebook-extensions.git@9c19ab815778c9cee138f87a5d88e4b734698ea7#egg=jupyter2repo&subdirectory=jupyter2repo
+-e git+ssh://git@github.com/mitodl/ol-notebook-extensions.git@aeda1f940bb5e82ab091838aff7ae27fae2e0976#egg=jupyter2repo&subdirectory=jupyter2repo
 jupyter_client==8.6.3
 jupyter_core==5.8.1
 jupyter_server==2.16.0
